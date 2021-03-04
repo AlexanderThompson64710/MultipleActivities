@@ -18,29 +18,35 @@ public class DisplayActivity extends AppCompatActivity {
     ImageView imageView;
     int[] imageArray;
     int position = 0;
-    ArrayList dogArr;
-    int start = 0;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+   protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display);
 
         imageView = findViewById(R.id.imageView);
+        textView = findViewById(R.id.textView);
 
         Bundle bundle = getIntent().getExtras();
         imageArray = bundle.getIntArray("imageArr");
         position = bundle.getInt("position");
-        dogArr = bundle.getIntegerArrayList("dogArr");
 
         if (bundle != null)
         {
-            int[] resId = bundle.getIntArray("imageArr");
-            int pos = bundle.getInt("position");
-            ArrayList dog = bundle.getIntegerArrayList("dogArr");
-            imageView.setImageResource(resId[pos-1]);
-            //textView = (TextView) dog.get(pos+1);
+            imageArray = bundle.getIntArray("imageArr");
+            position = bundle.getInt("position");
+            imageView.setImageResource(imageArray[position-1]);
         }
+        if(position == 1)
+            textView.setText("Labrador Retriever" + "\n" + "This dog loves swimming.");
+        else if(position == 2)
+            textView.setText("Pug" + "\n" + "This dog loves sleeping.");
+        else if(position == 3)
+            textView.setText("Husky" + "\n" + "This dog loves the cold.");
+        else if(position == 4)
+            textView.setText("Great Dane" + "\n" + "This dog loves leaning.");
+        else if(position == 5)
+            textView.setText("Bernese Mountain Dog" + "\n" + "This dog loves snow.");
 
     }
     @Override
