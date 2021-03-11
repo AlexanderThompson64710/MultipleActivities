@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageActivity</string>
+    <string name="textview">Click on picture of dog.</string>
+    <string name="textview2">TextView</string>
+</resources>
