@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8225f6f-c551-479e-a0d9-09876beb5d0a" name="Default Changelist" comment="This project shows an image of a dog, with their breed name and a small description about them.&#10;This is found at the top of the. When the program launches, the spinner starts out with a blank screen with the initial message of the spinner giving you instructions on what the spinner does. When an item is selected from the spinner, the image gets blown up in the middle of the screen with the spinner message changing to the dogs breed and a description.">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/DisplayActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/DisplayActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/ImageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/ImageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/temple/edu/ImageActivity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_display.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_display.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="E:\AndroidStudioProject\ImageActivity\app-release-1.0.1.apk.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c7888348-0d47-4b82-9aa7-70a6da159781" />
+  </component>
+  <component name="ProjectId" id="1owQazR0WqB878t4z7XuvGyotof" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="ImageActivity.app" />
+    <property name="ExportApk.ApkPath" value="E:\AndroidStudioProject\ImageActivity\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/Owner/AppData/Local/Android/Sdk/sources/android-30/android/widget/AdapterView.java_SELECTED" value="AdapterView" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CIS3515_Spring21_Assignment5-master" />
+    <property name="multi-representation-previewC:/Users/Owner/AppData/Local/Android/Sdk/sources/android-30/android/widget/AdapterView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1782131885">
+      <recent name="temple.edu.ImageActivity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AndroidStudioProject\ImageActivity\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ImageActivity.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Owner\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8225f6f-c551-479e-a0d9-09876beb5d0a" name="Default Changelist" comment="" />
+      <created>1614195241049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614195241049</updated>
+    </task>
+    <task id="LOCAL-00001" summary="This project shows an image of a dog, with their breed name and a small description about them.&#10;This is found inside the spinner. When the program launches, the spinner starts out with a blank screen with the initial message of the spinner giving you instructions on what the spinner does. When an item is selected from the spinner, the image gets blown up in the middle of the screen with the spinner message changing to the dogs breed and a description.">
+      <created>1614221912362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614221912362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This project shows an image of a dog, with their breed name and a small description about them.&#10;This is found inside the spinner. When the program launches, the spinner starts out with a blank screen with the initial message of the spinner giving you instructions on what the spinner does. When an item is selected from the spinner, the image gets blown up in the middle of the screen with the spinner message changing to the dogs breed and a description." />
+    <option name="LAST_COMMIT_MESSAGE" value="This project shows an image of a dog, with their breed name and a small description about them.&#10;This is found inside the spinner. When the program launches, the spinner starts out with a blank screen with the initial message of the spinner giving you instructions on what the spinner does. When an item is selected from the spinner, the image gets blown up in the middle of the screen with the spinner message changing to the dogs breed and a description." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3902" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1614210870615">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3902" y="262" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1614210870615" />
+    <state x="2803" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615409685402">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2803" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1615409685402" />
+    <state x="3677" y="314" key="AndroidCreateResourceFileDialog" timestamp="1616016528851">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3677" y="314" key="AndroidCreateResourceFileDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616016528851" />
+    <state x="2918" y="349" key="AndroidCreateXmlResourceDialog" timestamp="1616016173437">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="358" y="349" key="AndroidCreateXmlResourceDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615414444077" />
+    <state x="2918" y="349" key="AndroidCreateXmlResourceDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616016173437" />
+    <state x="3877" y="297" key="FileChooserDialogImpl" timestamp="1616015096427">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="866" y="316" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615428038028" />
+    <state x="3877" y="297" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616015096427" />
+    <state x="1325" y="436" width="421" height="328" key="Github.ShareDialog" timestamp="1615427061777">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1325" y="436" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615427061777" />
+    <state x="3885" y="436" width="421" height="328" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1614800642342" />
+    <state x="274" y="261" key="Github.UntrackedFilesDialog" timestamp="1615427067879">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="274" y="261" key="Github.UntrackedFilesDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615427067879" />
+    <state width="977" height="254" key="GridCell.Tab.0.bottom" timestamp="1616015922110">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="977" height="261" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615422858958" />
+    <state width="977" height="254" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616015922110" />
+    <state width="977" height="254" key="GridCell.Tab.0.center" timestamp="1616015922109">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="977" height="261" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615422858958" />
+    <state width="977" height="254" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616015922109" />
+    <state width="977" height="254" key="GridCell.Tab.0.left" timestamp="1616015922109">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="977" height="261" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615422858958" />
+    <state width="977" height="254" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616015922109" />
+    <state width="977" height="254" key="GridCell.Tab.0.right" timestamp="1616015922110">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="977" height="261" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615422858958" />
+    <state width="977" height="254" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1616015922110" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1615404424262">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1615404424262" />
+    <state x="1045" y="201" key="SettingsEditor" timestamp="1615426987337">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1045" y="201" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615426987337" />
+    <state x="3605" y="201" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1615402941049" />
+    <state x="3689" y="289" key="Vcs.Push.Dialog.v2" timestamp="1614223394192">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3689" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1614223394192" />
+    <state x="331" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615426447763">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="331" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615426447763" />
+    <state x="3923" y="417" key="git4idea.rebase.GitRebaseDialog" timestamp="1614223369913">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3923" y="417" key="git4idea.rebase.GitRebaseDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1614223369913" />
+    <state x="2916" y="316" key="refactoring.ChangeSignatureDialog" timestamp="1615403152270">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2916" y="316" key="refactoring.ChangeSignatureDialog/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1615403152270" />
+    <state x="3156" y="276" width="672" height="677" key="run.anything.popup" timestamp="1615404424260">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3156" y="276" width="672" height="677" key="run.anything.popup/0.0.2048.1112/2560.0.2048.1112@2560.0.2048.1112" timestamp="1615404424260" />
+    <state x="0" y="350" key="svn.repositoryBrowser" timestamp="1615427004229">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="350" key="svn.repositoryBrowser/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1615427004229" />
+  </component>
+</project>

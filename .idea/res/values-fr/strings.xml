@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activitéd\'image</string>
+    <string name="textView">Cliquez sur l\'image du chien.</string>
+    <string name="textView2">TextView</string>
+    <string name="imageView">imageView</string>
+</resources>
