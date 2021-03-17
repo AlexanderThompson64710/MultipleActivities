@@ -1,0 +1,11 @@
+<resources>
+    <string-array
+        name="dog_Array_Name">
+        <item
+            >text_string</item>
+    </string-array>
+    <string name="app_name">ImageActivity</string>
+    <string name="textView">Click on picture of dog.</string>
+    <string name="textView2">TextView</string>
+    <string name="imageView">imageView</string>
+</resources>
